@@ -16,19 +16,19 @@ risk and collections performance, modeled on the Kenyan SACCO sector.
 Four pages, built in Power BI Desktop from the same validated data model as the Excel workbook.
 
 ### Executive Overview
-![Executive Overview](powerbi/screenshots/01_executive_overview.png)
+![Executive Overview](Project%20Images/01_executive_overview.png)
 Headline portfolio KPIs, the portfolio-at-risk trend over time, and product/segment/branch filters.
 
 ### Problem Drivers
-![Problem Drivers](powerbi/screenshots/02_problem_drivers.png)
+![Problem Drivers](Project%20Images/02_problem_drivers.png)
 Delinquency and PAR30 by product and member segment, arrears source, vintage risk, and savings behaviour ahead of delinquency.
 
 ### Collections Effectiveness
-![Collections Effectiveness](powerbi/screenshots/03_collections_effectiveness.png)
+![Collections Effectiveness](Project%20Images/03_collections_effectiveness.png)
 Recovery rate, recovery per contact and conversion by channel, recovery source split, and officer-level activity.
 
 ### Management Monitoring
-![Management Monitoring](powerbi/screenshots/04_management_monitoring.png)
+![Management Monitoring](Project%20Images/04_management_monitoring.png)
 Loan-level drill-down: repayment history, collections history, recovery transactions, and a 60–89 day monitoring list.
 
 ---
@@ -164,6 +164,3 @@ could be applied to a SACCO such as United Winners."*
 
 **Joseph Omusitia** — josephomusitia5@gmail.com · [LinkedIn](https://linkedin.com/in/joseph-omusitia-18138a379) · [GitHub](https://github.com/josephomusitia5)
 
-Part of a 5-project analytics portfolio spanning HR analytics (salary audit, recruitment
-audit, recruitment funnel/sourcing) and e-commerce churn analysis, all built with SQL,
-Excel, and Power BI.
