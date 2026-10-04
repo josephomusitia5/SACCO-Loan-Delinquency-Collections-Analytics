@@ -1,0 +1,187 @@
+activity_id,loan_id,officer_id,activity_date,channel,outcome,linked_recovery_ksh,resulted_in_payment
+1,6,6,2025-02-28,SMS,No Contact,0,0
+2,11,3,2026-01-12,Phone Call,Payment Received,3677.19,1
+3,30,6,2025-12-25,Phone Call,No Contact,0,0
+4,30,2,2026-02-25,Guarantor Contact,Payment Received,15458.85,1
+5,44,4,2024-03-21,Phone Call,Disputed,0,0
+6,44,4,2024-04-21,Guarantor Contact,Disputed,0,0
+7,45,6,2024-12-13,Phone Call,No Contact,0,0
+8,62,3,2026-06-01,SMS,Promise-to-Pay,0,0
+9,62,3,2026-07-01,SMS,Payment Received,34225.71,1
+10,63,6,2023-03-28,SMS,Refused,0,0
+11,63,3,2023-04-28,SMS,Refused,0,0
+12,63,3,2023-08-28,SMS,Payment Received,22982.3,1
+13,70,5,2025-09-03,In-Person Visit,Promise-to-Pay,0,0
+14,70,5,2025-10-03,Phone Call,Payment Received,59046.11,1
+15,89,4,2025-04-24,Guarantor Contact,No Contact,0,0
+16,89,1,2025-06-24,Phone Call,No Contact,0,0
+17,91,5,2026-06-15,Phone Call,Promise-to-Pay,0,0
+18,91,5,2026-08-15,Phone Call,Promise-to-Pay,0,0
+19,98,1,2023-11-10,Phone Call,No Contact,0,0
+20,98,4,2023-12-10,In-Person Visit,Refused,0,0
+21,99,5,2026-05-15,Restructuring Offer,Promise-to-Pay,0,0
+22,101,3,2025-05-01,Phone Call,Promise-to-Pay,0,0
+23,105,4,2025-01-06,SMS,No Contact,0,0
+24,105,1,2025-02-06,Phone Call,Disputed,0,0
+25,105,4,2025-03-06,Phone Call,Disputed,0,0
+26,105,1,2025-04-06,Phone Call,Payment Received,4468.29,1
+27,113,6,2022-07-28,Phone Call,No Contact,0,0
+28,115,2,2023-11-20,Guarantor Contact,No Contact,0,0
+29,115,2,2024-01-20,Phone Call,Promise-to-Pay,0,0
+30,115,3,2024-04-20,Phone Call,Promise-to-Pay,0,0
+31,117,2,2024-01-08,Phone Call,No Contact,0,0
+32,135,5,2023-03-24,Phone Call,Promise-to-Pay,0,0
+33,135,5,2023-05-24,SMS,Promise-to-Pay,0,0
+34,136,1,2026-04-20,Guarantor Contact,Payment Received,9992.31,1
+35,137,2,2024-04-16,SMS,Promise-to-Pay,0,0
+36,137,6,2024-05-16,SMS,No Contact,0,0
+37,140,5,2024-01-15,Phone Call,Promise-to-Pay,0,0
+38,140,5,2024-03-15,Restructuring Offer,Promise-to-Pay,0,0
+39,150,3,2024-06-10,Phone Call,Promise-to-Pay,0,0
+40,150,6,2024-08-10,In-Person Visit,Promise-to-Pay,0,0
+41,150,6,2024-09-10,SMS,No Contact,0,0
+42,150,6,2024-11-10,SMS,Payment Received,28179.22,1
+43,151,6,2023-05-23,Phone Call,Payment Received,10880.51,1
+44,154,1,2026-08-04,SMS,Promise-to-Pay,0,0
+45,165,2,2025-12-19,Phone Call,Payment Received,3355.26,1
+46,174,4,2024-04-28,Phone Call,Promise-to-Pay,0,0
+47,174,4,2024-07-28,SMS,Payment Received,10158.78,1
+48,175,5,2026-06-27,Phone Call,Promise-to-Pay,0,0
+49,175,5,2026-07-27,Phone Call,No Contact,0,0
+50,175,5,2026-08-27,Phone Call,Promise-to-Pay,0,0
+51,202,2,2026-02-12,SMS,No Contact,0,0
+52,214,5,2024-12-12,Phone Call,No Contact,0,0
+53,214,5,2025-01-12,Phone Call,Refused,0,0
+54,214,5,2025-02-12,In-Person Visit,No Contact,0,0
+55,214,5,2025-03-12,SMS,Promise-to-Pay,0,0
+56,216,1,2024-09-24,Phone Call,Payment Received,10785.26,1
+57,218,1,2022-10-04,Phone Call,Promise-to-Pay,0,0
+58,218,1,2022-12-04,Phone Call,Refused,0,0
+59,218,1,2023-01-04,SMS,Promise-to-Pay,0,0
+60,221,4,2026-04-02,Phone Call,Promise-to-Pay,0,0
+61,221,1,2026-05-02,In-Person Visit,No Contact,0,0
+62,221,4,2026-07-02,In-Person Visit,Promise-to-Pay,0,0
+63,226,5,2026-03-21,Phone Call,Payment Received,7087.64,1
+64,231,1,2026-07-20,In-Person Visit,Payment Received,2394.81,1
+65,232,5,2026-07-22,In-Person Visit,Refused,0,0
+66,243,5,2026-07-18,SMS,Promise-to-Pay,0,0
+67,245,5,2026-04-24,SMS,Promise-to-Pay,0,0
+68,245,5,2026-06-24,Phone Call,Promise-to-Pay,0,0
+69,245,5,2026-07-24,Phone Call,Promise-to-Pay,0,0
+70,248,4,2024-10-15,SMS,Payment Received,10475.01,1
+71,275,5,2024-05-28,Restructuring Offer,No Contact,0,0
+72,277,4,2025-10-25,Phone Call,Refused,0,0
+73,277,1,2025-12-25,SMS,Payment Received,3833.32,1
+74,278,5,2024-01-19,In-Person Visit,Payment Received,2484.38,1
+75,280,5,2025-06-01,SMS,Refused,0,0
+76,280,5,2025-08-01,In-Person Visit,Promise-to-Pay,0,0
+77,280,5,2025-09-01,Guarantor Contact,Promise-to-Pay,0,0
+78,284,2,2024-09-01,Phone Call,No Contact,0,0
+79,284,6,2024-10-01,SMS,Payment Received,9243.42,1
+80,286,5,2025-06-28,In-Person Visit,No Contact,0,0
+81,289,5,2023-02-28,SMS,Promise-to-Pay,0,0
+82,289,5,2023-03-28,Phone Call,Refused,0,0
+83,309,2,2025-12-28,Phone Call,Promise-to-Pay,0,0
+84,309,2,2026-01-28,SMS,Promise-to-Pay,0,0
+85,315,3,2025-05-04,Restructuring Offer,No Contact,0,0
+86,315,3,2025-06-04,SMS,No Contact,0,0
+87,316,3,2024-01-20,Phone Call,Promise-to-Pay,0,0
+88,323,5,2026-07-05,SMS,No Contact,0,0
+89,328,4,2025-01-20,Phone Call,Disputed,0,0
+90,328,4,2025-05-20,Phone Call,Payment Received,17826.85,1
+91,330,2,2024-11-15,Phone Call,Promise-to-Pay,0,0
+92,346,1,2026-05-10,Phone Call,No Contact,0,0
+93,346,4,2026-07-10,In-Person Visit,No Contact,0,0
+94,351,4,2023-01-02,Phone Call,Promise-to-Pay,0,0
+95,351,4,2023-02-02,Phone Call,Promise-to-Pay,0,0
+96,351,1,2023-03-02,Phone Call,No Contact,0,0
+97,356,5,2023-02-08,SMS,Promise-to-Pay,0,0
+98,356,5,2023-03-08,SMS,Promise-to-Pay,0,0
+99,359,2,2022-06-16,SMS,No Contact,0,0
+100,359,2,2022-07-16,In-Person Visit,Promise-to-Pay,0,0
+101,363,5,2023-01-09,Phone Call,Payment Received,7750.0,1
+102,382,1,2024-08-01,SMS,No Contact,0,0
+103,382,1,2024-09-01,Phone Call,Promise-to-Pay,0,0
+104,382,4,2024-10-01,Restructuring Offer,No Contact,0,0
+105,393,4,2024-11-12,In-Person Visit,No Contact,0,0
+106,393,1,2025-01-12,SMS,No Contact,0,0
+107,394,3,2026-04-10,SMS,Promise-to-Pay,0,0
+108,394,2,2026-05-10,SMS,No Contact,0,0
+109,394,6,2026-08-10,Phone Call,Promise-to-Pay,0,0
+110,395,5,2024-04-18,SMS,Disputed,0,0
+111,395,5,2024-07-18,Phone Call,Promise-to-Pay,0,0
+112,395,5,2024-08-18,In-Person Visit,No Contact,0,0
+113,395,5,2024-09-18,SMS,Disputed,0,0
+114,395,5,2024-10-18,Phone Call,Promise-to-Pay,0,0
+115,396,5,2025-02-10,Phone Call,No Contact,0,0
+116,396,5,2025-03-10,In-Person Visit,Refused,0,0
+117,396,5,2025-06-10,Phone Call,Payment Received,4278.3,1
+118,398,6,2026-07-21,Phone Call,Promise-to-Pay,0,0
+119,413,5,2025-04-25,SMS,No Contact,0,0
+120,421,6,2025-03-01,Phone Call,Payment Received,31258.85,1
+121,426,4,2025-02-13,Phone Call,No Contact,0,0
+122,426,4,2025-03-13,SMS,Promise-to-Pay,0,0
+123,426,1,2025-04-13,SMS,No Contact,0,0
+124,432,6,2024-04-20,Phone Call,No Contact,0,0
+125,432,3,2024-05-20,SMS,No Contact,0,0
+126,432,6,2024-06-20,Phone Call,Promise-to-Pay,0,0
+127,432,3,2024-07-20,Phone Call,Promise-to-Pay,0,0
+128,433,6,2023-02-24,Phone Call,Refused,0,0
+129,444,5,2024-10-23,Phone Call,Promise-to-Pay,0,0
+130,447,3,2025-11-06,Phone Call,Promise-to-Pay,0,0
+131,447,2,2025-12-06,SMS,No Contact,0,0
+132,451,3,2024-11-17,SMS,Promise-to-Pay,0,0
+133,451,2,2024-12-17,Phone Call,Disputed,0,0
+134,464,4,2025-12-21,SMS,Promise-to-Pay,0,0
+135,465,6,2024-12-09,Phone Call,Promise-to-Pay,0,0
+136,465,6,2025-01-09,SMS,Payment Received,6642.87,1
+137,468,6,2022-05-21,Guarantor Contact,Promise-to-Pay,0,0
+138,468,6,2022-06-21,Phone Call,Promise-to-Pay,0,0
+139,477,6,2025-10-03,SMS,Refused,0,0
+140,489,6,2026-04-01,Phone Call,Promise-to-Pay,0,0
+141,489,2,2026-05-01,SMS,Promise-to-Pay,0,0
+142,489,3,2026-06-01,Phone Call,Payment Received,7858.27,1
+143,499,5,2025-01-10,Guarantor Contact,Promise-to-Pay,0,0
+144,499,5,2025-03-10,Restructuring Offer,Promise-to-Pay,0,0
+145,505,5,2024-04-21,Phone Call,No Contact,0,0
+146,511,5,2022-10-18,Phone Call,Promise-to-Pay,0,0
+147,511,5,2022-11-18,Phone Call,Promise-to-Pay,0,0
+148,511,5,2022-12-18,Phone Call,No Contact,0,0
+149,511,5,2023-01-18,SMS,Promise-to-Pay,0,0
+150,513,5,2026-03-28,Phone Call,No Contact,0,0
+151,513,5,2026-06-28,Phone Call,Promise-to-Pay,0,0
+152,518,4,2024-07-01,SMS,Promise-to-Pay,0,0
+153,533,1,2026-05-14,Phone Call,No Contact,0,0
+154,535,5,2024-05-28,Phone Call,Promise-to-Pay,0,0
+155,535,5,2024-06-28,Phone Call,No Contact,0,0
+156,535,5,2024-07-28,SMS,Payment Received,22388.09,1
+157,536,3,2025-10-14,In-Person Visit,Promise-to-Pay,0,0
+158,536,2,2025-11-14,In-Person Visit,No Contact,0,0
+159,536,2,2025-12-14,SMS,No Contact,0,0
+160,548,1,2025-01-09,Guarantor Contact,Disputed,0,0
+161,548,1,2025-02-09,SMS,Disputed,0,0
+162,564,3,2024-11-09,In-Person Visit,Payment Received,22158.77,1
+163,567,1,2026-05-08,SMS,Promise-to-Pay,0,0
+164,572,3,2025-03-28,Phone Call,No Contact,0,0
+165,577,3,2025-05-24,SMS,No Contact,0,0
+166,582,5,2023-10-28,Restructuring Offer,No Contact,0,0
+167,584,3,2024-03-19,In-Person Visit,Promise-to-Pay,0,0
+168,584,6,2024-05-19,Phone Call,Payment Received,6650.01,1
+169,585,3,2026-03-28,SMS,No Contact,0,0
+170,585,6,2026-04-28,In-Person Visit,Promise-to-Pay,0,0
+171,588,3,2024-03-21,Phone Call,Promise-to-Pay,0,0
+172,588,6,2024-04-21,In-Person Visit,Promise-to-Pay,0,0
+173,588,2,2024-05-21,Phone Call,Payment Received,27225.79,1
+174,592,2,2024-01-03,Phone Call,Disputed,0,0
+175,592,3,2024-02-03,Guarantor Contact,Promise-to-Pay,0,0
+176,600,1,2026-05-04,Phone Call,No Contact,0,0
+177,617,2,2024-02-20,SMS,Promise-to-Pay,0,0
+178,623,5,2024-10-16,Restructuring Offer,No Contact,0,0
+179,623,5,2024-11-16,Restructuring Offer,Disputed,0,0
+180,623,5,2024-12-16,SMS,Promise-to-Pay,0,0
+181,634,3,2026-04-28,SMS,Promise-to-Pay,0,0
+182,641,3,2026-05-22,SMS,Promise-to-Pay,0,0
+183,641,2,2026-06-22,In-Person Visit,No Contact,0,0
+184,644,5,2024-12-05,Phone Call,Promise-to-Pay,0,0
+185,648,3,2024-09-20,SMS,Promise-to-Pay,0,0
+186,648,6,2024-10-20,SMS,No Contact,0,0

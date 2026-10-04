@@ -1,0 +1,14 @@
+product_id,product_name,category,typical_term_months,typical_interest_rate_pm,rate_source_note
+1,Salary Advance,FOSA,2,1.0,"ASSUMPTION - only the Ksh100,000 cap is verified"
+2,Jeki Loan,FOSA,12,1.5,ASSUMPTION - not publicly disclosed
+3,Product Loan,FOSA,12,1.3,ASSUMPTION - not publicly disclosed
+4,Mtumishi Loan,FOSA,24,1.2,ASSUMPTION - not publicly disclosed
+5,School Fees Loan,BOSA,4,1.4,ASSUMPTION - not publicly disclosed
+6,Bima Loan,BOSA,12,1.3,ASSUMPTION - not publicly disclosed
+7,Development Loan,BOSA,36,1.2,ASSUMPTION - not publicly disclosed
+8,Emergency Loan,BOSA,6,1.6,ASSUMPTION - not publicly disclosed
+9,Instant Loan,BOSA,3,1.7,ASSUMPTION - not publicly disclosed
+10,ELoan,BOSA,6,1.5,ASSUMPTION - not publicly disclosed
+11,Moto Gari Loan,BOSA,48,1.1,ASSUMPTION - not publicly disclosed
+12,Mjengo Loan,BOSA,48,1.1,ASSUMPTION - not publicly disclosed
+13,Supa Loan,BOSA,60,1.1,VERIFIED - LinkedIn company page
