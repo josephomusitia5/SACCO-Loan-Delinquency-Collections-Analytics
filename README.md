@@ -7,7 +7,7 @@ risk and collections performance, modeled on the Kenyan SACCO sector.
 
 > ⚠️ **This project uses 100% synthetic, seeded data.** It does not use, reference, or claim
 > access to United Winners DT Sacco's (or any SACCO's) actual internal data. Every figure
-> below is generated for demonstration purposes only. See [Synthetic Data & Credibility](#synthetic-data--credibility).
+> below is generated for demonstration purposes only. See "Synthetic Data & Credibility" below..
 
 ---
 
